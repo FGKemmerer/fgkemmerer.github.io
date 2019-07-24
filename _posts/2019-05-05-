@@ -1,0 +1,15 @@
+---
+layout: post
+title: The C Programming Language
+---
+
+One could learn the french language in the comfort of their home. In fact, anyone can essentially change very in their life, sit down with a book or program and pick up most of the technical details of the language. But, would you appreciate french the same way if you had a teacher who was fluent? And what if your fluent teacher was teaching you the language while living in Paris? Surely the experience would be dramatically different. Surely you would find that as you learned you would be romanced by the language itself.
+
+The idea that a programming language could be in some sense romantic may seem strange. But there is something about programming and computing that does, in fact, romance the intellect and even, tickle the soul. 
+
+It may not be immediately obvious, but the K&R does possess an emotional tone. That emotion is awe. This language has tickled its creator, and for a technical guide it is written with the presumption that you too will be tickled by it. The reader can tell that both Kernighan and Ritchie want you to learn C ad take a certain pride in it. 
+
+I hope to learn C in a UNIX-like environment, as my inner romantic senses that UNIX is the Parisian home of C.  Assuming anyone ever reads this. If you intend to learn C, this blog will not be comprehensive and wouldn’t bring you there itself. But I would love to think it could be used as a companion on a similar journey. If you are so inclined, you should pick up a copy of The C Programming Language 2nd Edition yourself. 
+
+The second edition of The C Programming Language is accessible and endlessly helpful, but is dated. Using it with a modern compiler will inevitably lead to some amount of conflict. So far, I have found that these conflicts are limited, but each one illuminates another piece of the digital story of C.  
+
