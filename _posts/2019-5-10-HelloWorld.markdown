@@ -9,12 +9,13 @@ Buried in these two words I find a nearly irresistible hope for the future. For 
 
 The gcc likes most of what K&R have to say here. The only difference is that our a.out program wants to be phrased as, 
 
-./a.out
+    ./a.out
 
 The notes on the use of \n are helpful and as K&R suggest, there are errors if it is neglected. 
 Likewise, even if you include the \n but break the line like:
 
   	printf("hello, world \n
+    
   		   ");
 
 You will still get these sorts of errors from gcc:
