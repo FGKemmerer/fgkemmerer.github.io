@@ -7,7 +7,7 @@ If Hello World gives a first illusion of awareness, then this conversion table p
 
 As an introductory program that “does something” the K&R introduces the reader to formulaic expressions with a simple equation for converting (transforming) Celsius to Fahrenheit. 
 
-In terms of the gcc, the code provided by the K&R for the initial conversion is right on point and runs flawlessly. Likewise, the exercises used here are simple. Inserting a heading and flipping the conversion to Celsius to Fahrenheit.  
+In terms of the gcc, the code provided by the K&R for the initial conversion is right on point and runs flawlessly. Likewise, the exercises used here are simple. Inserting a heading and flipping the conversion from Celsius to Fahrenheit.  
 
 While the gcc has little to no problems here, there is a lot of material here and the learning curve begins. It took me about 3 hours to fully grasp everything here. 
 
@@ -29,7 +29,9 @@ Data types aside, this is my first exposure to the idea of loops. They make logi
 As it happens, the gcc behaves as expected and int rounds the numbers out while float gives degrees more accuracy. There is one critical line here that merits consideration: 
 
 
-    “If an arithmetic operator has integer operands, an integer operation is performed. If an arithmetic operator has one floating-point operand and one integer operand, however, the integer will be converted to floating point before the operation is done.”
+    “If an arithmetic operator has integer operands, an integer operation is performed. 
+    If an arithmetic operator has one floating-point operand and one integer operand, 
+    however, the integer will be converted to floating point before the operation is done.”
 
 Meaning, that integer data types are treated almost like “X.00000”. A quick check with the gcc verifies this. By leaving the step, higher and lower bounds as integers and changing the celscius and fahrenheit data type to float (and operands from d% to f%), the data type output is float also (but the reverse is not true).
 
