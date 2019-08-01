@@ -3,8 +3,6 @@ layout: post
 title: 1.1 Hello World
 ---
 
-1.1 Hello World
-
 Buried in these two words I find a nearly irresistible hope for the future. For me, I’ve just taken my “first steps into a larger world”. But even more exciting, that one little program, is saying something too. You might even imagine that the person saying hello was the code, and not the programmer. I know that it is me anthropomorphizing the program, but I remain convinced that from early on the greatest achievement we have hoped for is to create some-thing, some-one like us, who could look out at everything we see and say Hello World.
 
 The gcc likes most of what K&R have to say here. The only difference is that our a.out program wants to be phrased as, 
