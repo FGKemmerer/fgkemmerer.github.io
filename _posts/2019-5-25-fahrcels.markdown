@@ -3,10 +3,7 @@ layout: post
 title: 1.2 Fahrenheit and Celsius
 ---
 
-1.2 Fahrenheit to Celsius 
-
-
-If Hello World gives a first illusion of awareness, then this conversion table gives the first glimmer of rational thought. It also seems fitting that the first useful program would be somehow transformative. In some ways, this experience and journey are transformative for me too. 
+If Hello World gives a first illusion of awareness, then this conversion table program gives the first glimmer of rational thought. It also seems fitting that the first useful program would be somehow transformative. In some ways, this experience and journey are transformative for me too. 
 
 As an introductory program that “does something” the K&R introduces the reader to formulaic expressions with a simple equation for converting (transforming) Celsius to Fahrenheit. 
 
